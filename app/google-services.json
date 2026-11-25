@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398395616001",
+    "project_id": "inventarioelectronico-7de07",
+    "storage_bucket": "inventarioelectronico-7de07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398395616001:android:fa9ea8eb78484cb1bd0900",
+        "android_client_info": {
+          "package_name": "com.example.inventarioelectronico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDio9OD87NTjVcEzfgRzbSGIriQcZUVkWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
